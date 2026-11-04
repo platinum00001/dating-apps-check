@@ -1,5 +1,7 @@
 # Dating Apps Check
 
+**Live app:** https://dating-apps-check.vercel.app
+
 A private, consent-based web app for reviewing **your own** dating-app accounts — plus an opt-in mode where two people compare what they each chose to share.
 
 Plain HTML, CSS, and JavaScript. No build step, no backend, no tracking. Hosted free on Vercel.
